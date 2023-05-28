@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola, mi nombre es Diego 👋
+### Desarrollador de Software
 <!--
 **LooreDev/looredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
