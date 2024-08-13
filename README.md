@@ -1,4 +1,4 @@
-### Hola, mi nombre es Diego 👋
+### Hola 👋
 ![https://github.com/LooreDev](https://raw.githubusercontent.com/LooreDev/LooreDev/master/background.jpg)
 <!--
 **LooreDev/looredev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
